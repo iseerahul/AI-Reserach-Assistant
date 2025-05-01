@@ -1,0 +1,19 @@
+{
+  "agent_type": "optimization_agent",
+  "metrics_history": [
+    {
+      "success_rate": 0.95,
+      "response_time": 0.0,
+      "cost": 0.8,
+      "relevance_score": 0.7999999999999999,
+      "timestamp": "2025-03-28T15:16:39.575847"
+    },
+    {
+      "success_rate": 0.95,
+      "response_time": 0.0,
+      "cost": 0.8,
+      "relevance_score": 0.7999999999999999,
+      "timestamp": "2025-03-28T15:17:15.016544"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+2025-03-28 14:00:43,197 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-03-28 14:00:43,238 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-03-28 14:00:43,242 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-03-28 14:00:47,328 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-03-28 14:00:47,328 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-03-28 14:00:49,891 - rag_implementation - INFO - Loaded FAISS index from faiss_index.faiss
+2025-03-28 14:00:49,898 - rag_implementation - INFO - Indexing: research_papers\Resume_copy[1].pdf
+2025-03-28 14:00:50,625 - __main__ - INFO - Enhanced Chatbot initialized successfully
+2025-03-28 14:00:57,215 - __main__ - ERROR - Error processing query: 'EnhancedChatbot' object has no attribute 'BLUE'
+2025-03-28 14:01:07,144 - __main__ - ERROR - Error processing query: 'EnhancedChatbot' object has no attribute 'BLUE'
+2025-03-28 14:01:13,624 - __main__ - ERROR - Error processing query: 'EnhancedChatbot' object has no attribute 'BLUE'
+2025-03-28 14:03:36,843 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-03-28 14:03:36,884 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-03-28 14:03:36,888 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-03-28 14:03:40,927 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-03-28 14:03:40,927 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-03-28 14:03:43,655 - rag_implementation - INFO - Loaded FAISS index from faiss_index.faiss
+2025-03-28 14:03:43,656 - rag_implementation - INFO - Indexing: research_papers\Resume_copy[1].pdf
+2025-03-28 14:03:44,399 - __main__ - INFO - Enhanced Chatbot initialized successfully
+2025-03-28 14:03:50,998 - multi_agent_system - ERROR - Optimization Agent Error: 'success_rate'
+2025-03-28 14:04:32,229 - multi_agent_system - ERROR - Optimization Agent Error: 'success_rate'
+2025-03-28 14:04:49,128 - multi_agent_system - ERROR - Optimization Agent Error: 'success_rate'
+2025-03-28 14:05:30,906 - multi_agent_system - ERROR - Optimization Agent Error: 'success_rate'
+2025-03-28 14:05:59,611 - multi_agent_system - ERROR - Optimization Agent Error: 'success_rate'
+2025-03-28 14:07:14,913 - multi_agent_system - ERROR - Optimization Agent Error: 'success_rate'
+2025-03-28 14:07:31,472 - multi_agent_system - ERROR - Optimization Agent Error: 'success_rate'
+2025-03-28 14:10:21,602 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-03-28 14:10:21,639 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-03-28 14:10:21,642 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-03-28 14:10:25,720 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-03-28 14:10:25,721 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-03-28 14:10:28,635 - __main__ - INFO - Enhanced Chatbot initialized successfully
+2025-03-28 14:10:58,415 - multi_agent_system - ERROR - Optimization Agent Error: 'success_rate'
+2025-03-28 14:11:19,385 - multi_agent_system - ERROR - Optimization Agent Error: 'success_rate'
+2025-03-28 14:11:37,766 - multi_agent_system - ERROR - Optimization Agent Error: 'success_rate'
+2025-03-28 14:40:40,992 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-03-28 14:40:40,993 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-03-28 14:40:43,808 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-03-28 14:40:43,808 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-03-28 14:44:17,816 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-03-28 14:44:17,816 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-03-28 14:44:20,190 - __main__ - INFO - Processing PDF: Resume_copy[1].pdf
+2025-03-28 14:44:20,650 - __main__ - INFO - Successfully indexed 1 chunks from Resume_copy[1].pdf
+2025-03-28 14:44:20,651 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-03-28 14:44:20,651 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2

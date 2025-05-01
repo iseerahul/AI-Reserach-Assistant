@@ -1,0 +1,26 @@
+{
+  "agent_type": "evaluation_agent",
+  "metrics_history": [
+    {
+      "success_rate": 0.0,
+      "response_time": 0.001006,
+      "cost": 0.0,
+      "relevance_score": 0.0,
+      "timestamp": "2025-03-28T14:10:58.415992"
+    },
+    {
+      "success_rate": 0.0,
+      "response_time": 0.000898,
+      "cost": 0.0,
+      "relevance_score": 0.0,
+      "timestamp": "2025-03-28T14:11:19.385992"
+    },
+    {
+      "success_rate": 0.0,
+      "response_time": 0.0,
+      "cost": 0.0,
+      "relevance_score": 0.0,
+      "timestamp": "2025-03-28T14:11:37.766879"
+    }
+  ]
+}

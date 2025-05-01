@@ -1,0 +1,19 @@
+2025-03-28 14:16:20,478 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-03-28 14:16:20,478 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-03-28 14:16:23,212 - __main__ - INFO - Enhanced Chatbot initialized successfully
+2025-03-28 14:23:23,567 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-03-28 14:23:23,568 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-03-28 14:23:42,822 - __main__ - INFO - Enhanced Chatbot initialized successfully
+2025-03-28 14:25:58,983 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-03-28 14:25:58,984 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-03-28 14:26:02,341 - __main__ - INFO - Enhanced Chatbot initialized successfully
+2025-03-28 15:09:41,850 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-03-28 15:09:41,850 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-03-28 15:09:44,624 - __main__ - INFO - Enhanced Chatbot initialized successfully
+2025-03-28 15:10:08,414 - __main__ - ERROR - Error fetching arxiv papers: URL can't contain control characters. '/api/query?search_query=all:get me reserach paper on llm&start=0&max_results=7&sortBy=relevance&sortOrder=descending' (found at least ' ')
+2025-03-28 15:15:21,014 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-03-28 15:15:21,015 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-03-28 15:15:23,366 - __main__ - INFO - Enhanced Chatbot initialized successfully
+2025-04-24 08:07:04,020 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-24 08:07:04,020 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-04-24 08:07:23,621 - __main__ - INFO - Enhanced Chatbot initialized successfully

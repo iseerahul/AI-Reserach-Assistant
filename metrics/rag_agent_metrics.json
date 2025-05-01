@@ -1,0 +1,26 @@
+{
+  "agent_type": "rag_agent",
+  "metrics_history": [
+    {
+      "success_rate": 1.0,
+      "response_time": 0.0,
+      "cost": 0.0,
+      "relevance_score": 0.0,
+      "timestamp": "2025-03-28T14:10:57.690441"
+    },
+    {
+      "success_rate": 1.0,
+      "response_time": 0.0,
+      "cost": 0.0,
+      "relevance_score": 0.0,
+      "timestamp": "2025-03-28T14:11:17.286538"
+    },
+    {
+      "success_rate": 1.0,
+      "response_time": 0.0,
+      "cost": 0.0,
+      "relevance_score": 0.0,
+      "timestamp": "2025-03-28T14:11:35.853974"
+    }
+  ]
+}
